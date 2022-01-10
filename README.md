@@ -40,4 +40,11 @@ Challenge 3 for Butler Data Science
 	    - file_to_load = os.path.join("Resources", "election_results.csv")
 	  - ***Modified Script***
 	    - file_to_load = os.path.join("Any_election_results.csv)
-
+* If this was a national election we could instead gather votes by state.
+	- Create a list and votes dictionary
+	  - ***Original Script***
+	    - county_options = []
+	    - county_votes = {}
+	  - ***Modified Script***
+	    - state_options = []
+	    - state_votes = {}
