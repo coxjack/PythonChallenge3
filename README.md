@@ -36,7 +36,8 @@ Challenge 3 for Butler Data Science
 ### 
 * Applying this script to any election audit is easy. The first thing we would need to do is import from whatever results file we would have. 
 	- Add a variable to load a file from a path.
-  		- ***Original Script***
-     			- file_to_load = os.path.join("Resources", "election_results.csv")
-  		- ***Modified Script***
-     			- file_to_load = os.path.join("Any_election_results.csv)
+	  - ***Original Script***
+	    - file_to_load = os.path.join("Resources", "election_results.csv")
+	  - ***Modified Script***
+	    - file_to_load = os.path.join("Any_election_results.csv)
+
