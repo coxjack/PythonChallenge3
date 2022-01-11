@@ -32,6 +32,12 @@ Challenge 3 for Butler Data Science
 	Winning Vote Count: 272,892;
 	Winning Percentage: 73.8%
 
+*Examples of the code to find the results are below. The steps included initializing vote counter, creating lists and dictionaries, establishing and tracking variables, adding votes to the counter, saving to the text file, & printing to the terminal
+
+![Code Section 1](https://github.com/coxjack/PythonChallenge3/blob/main/Additional%20Supporting%20Images/code_pt_1.png)
+![Code Section 2](https://github.com/coxjack/PythonChallenge3/blob/main/Additional%20Supporting%20Images/code_pt_2.png)
+![Code Section 3](https://github.com/coxjack/PythonChallenge3/blob/main/Additional%20Supporting%20Images/code_pt_3.png)
+
 ## 3. Election Audit Summary
 ### 
 * Applying this script to any election audit is easy. The first thing we would need to do is import from whatever results file we would have. 
